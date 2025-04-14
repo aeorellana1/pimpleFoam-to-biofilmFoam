@@ -2,7 +2,7 @@
 
 ## Introducción
 
-Este proyecto es una adaptación del solver `pimpleFoam` para la simulación de biofilms en OpenFOAM. El solver se llama `pimpe_bio` y es utilizado para modelar el crecimiento y comportamiento de biofilms en procesos de biorremediación y otros fenómenos bioquímicos.
+Este proyecto es una adaptación del solver `pimpleFoam` a `biofilmFoam` para la simulación de biofilms en OpenFOAM. El solver se llama `pimpe_bio` y es utilizado para modelar el crecimiento y comportamiento de biofilms en procesos de biorremediación y otros fenómenos bioquímicos.
 
 ## Descripción del Solver
 
